@@ -30,6 +30,7 @@ It demonstrates how to combine **basic data structures** with **pandas-based dat
 
 ## 🗂️ Folder Structure
 student-performance-analyzer/
+
 │
 
 ├── data/
@@ -42,4 +43,3 @@ student-performance-analyzer/
 
 ├── README.md
 
-└── requirements.txt
