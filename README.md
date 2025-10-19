@@ -18,7 +18,7 @@ It demonstrates how to combine **basic data structures** with **pandas-based dat
 
 ---
 
-🧠 Concepts Used
+# 🧠 Concepts Used
 | Category | Concepts |
 |-----------|-----------|
 | **DSA** | Lists, Dictionaries, Searching, Sorting |
@@ -29,3 +29,11 @@ It demonstrates how to combine **basic data structures** with **pandas-based dat
 ---
 
 ## 🗂️ Folder Structure
+student-performance-analyzer/
+│
+├── data/
+│ └── student_marks.csv
+│
+├── main.py
+├── README.md
+└── requirements.txt
