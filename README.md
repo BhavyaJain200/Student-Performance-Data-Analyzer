@@ -4,7 +4,7 @@ A Python project to **analyze and visualize student marks** using CSV data.
 It helps identify **top performers**, calculate **averages**, and visualize **subject-wise trends** using graphs.
 
 ## 📘 Overview
-This project is designed for **B.Tech CSE 3rd Semester** students learning **Python, DSA, and Data Analysis**.  
+This project is designed learning **Python, DSA, and Data Analysis**.  
 It demonstrates how to combine **basic data structures** with **pandas-based data analytics**.
 
 ---
