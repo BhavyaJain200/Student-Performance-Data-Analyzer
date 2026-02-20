@@ -20,7 +20,10 @@ It demonstrates how to combine **basic data structures** with **pandas-based dat
 
 # Concepts Used
 DSA
+
 Data Analysis
+
 Visualization
+
 File Handling
 
